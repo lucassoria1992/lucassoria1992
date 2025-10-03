@@ -1,70 +1,61 @@
-# 👋 ¡Hola! Soy Lucas Alexis Soria
-**Full‑Stack Developer** · Tucumán, Argentina  
-[📫 lucassoria1992@gmail.com](mailto:lucassoria1992@gmail.com)
+# 👋 ¡Hola! Soy Lucas Alexis Soria  
+**Full-Stack Developer** · Tucumán, Argentina  
+[📫 lucassoria1992@gmail.com](mailto:lucassoria1992@gmail.com)  
 
 ---
 
-## Sobre mí
-Desarrollador full‑stack enfocado en crear aplicaciones web robustas, mantenibles y orientadas a producto. Me interesa la calidad del software, las buenas prácticas y la entrega continua.
+## 🚀 Sobre mí  
+Desarrollador full-stack con experiencia en **React, Node.js, Express, SQL/NoSQL y Docker**.  
+Combino frontend interactivo y backend escalable para entregar productos que aporten valor medible.  
 
-- Construyo desde el frontend hasta el backend (end‑to‑end).
-- Me enfoco en performance, accesibilidad y DX (developer experience).
-- Trabajo con JavaScript/TypeScript, APIs REST, SQL/NoSQL, testing y CI/CD.
-
----
-
-## Habilidades y enfoque
-- Arquitectura: diseño modular, separación de responsabilidades, patrones pragmáticos.
-- Frontend: SPA/SSR, componentes reutilizables, UX accesible, optimización.
-- Backend: APIs limpias, validación, seguridad básica, logging y observabilidad.
-- Datos: modelado, consultas eficientes, migraciones y mantenimiento.
-- Calidad: testing unitario/integración, revisión de código, automatización.
-- DevOps: contenedores y pipelines de CI/CD para integrar y desplegar con confianza.
+- **+X proyectos** publicados en GitHub (frontend, backend y full-stack).  
+- Experiencia en **integraciones con APIs**, optimización de rendimiento y CI/CD.  
+- Interés en **arquitecturas limpias, testing automatizado y developer experience (DX)**.  
 
 ---
 
-## Proyectos destacados
-<!-- Reemplaza los ejemplos con tus proyectos reales: nombre, breve descripción, enlaces a repo/demo y puntos de valor. -->
-- Nombre del Proyecto A — breve descripción orientada a impacto y usuarios.
-  - [Repositorio](#) · [Demo](#)
-  - Logros: rendimiento, adopción, o resolución de un problema claro.
-- Nombre del Proyecto B — qué hace y para quién.
-  - [Repositorio](#) · [Demo](#)
-  - Destacado: decisiones técnicas, escala, métricas o aprendizajes.
-- Nombre del Proyecto C — foco técnico o de producto.
-  - [Repositorio](#) · [Demo](#)
-  - Notas: stack, arquitectura, testing, automatización, etc.
-
-> Consejo: En cada proyecto, agrega 1–3 bullets con resultados medibles o decisiones técnicas relevantes.
+## 🛠️ Tech stack  
+- **Frontend**: React, Next.js, Material UI, Bootstrap, Vite.  
+- **Backend**: Node.js, Express, REST, GraphQL básico.  
+- **Datos**: PostgreSQL, MongoDB, Mongoose, consultas optimizadas.  
+- **DevOps**: Docker, pipelines CI/CD (GitHub Actions).  
+- **Calidad**: Jest, Supertest, Cypress, ESLint, Prettier.  
 
 ---
 
-## En números
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucassoria1992&show_icons=true&theme=transparent&hide_title=true&rank_icon=github)
-![GitHub Streak](https://streak-stats.demolab.com/?user=lucassoria1992&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoria1992&layout=compact&langs_count=8&theme=transparent&hide_border=true)
+## 📌 Proyectos destacados  
+
+- **Sistema de Formularios Dinámicos** – Plataforma full-stack con ABM de formularios, usuarios y roles.  
+  - [Repositorio](#) · [Demo](#)  
+  - Stack: React + Node.js + MongoDB · Docker  
+  - Logros: autenticación JWT, permisos por área, despliegue automatizado en Docker.  
+
+- **Dashboard de KPIs Industriales** – Métricas de producción en tiempo real.  
+  - [Repositorio](#) · [Demo](#)  
+  - Logros: consultas optimizadas (↓60% tiempo de carga), gráficos accesibles para perfiles no técnicos.  
+
+- **Automatizador de Procesos ETL** – Migración de datos legacy a nube.  
+  - [Repositorio](#)  
+  - Logros: reducción del tiempo de carga de datos en un **80%**, procesos escalables y repetibles.  
 
 ---
 
-## Contacto
-- Email: [lucassoria1992@gmail.com](mailto:lucassoria1992@gmail.com)
-- Ubicación: Tucumán, Argentina
-
-<!-- Opcional: agrega tus redes -->
-<!-- LinkedIn: https://www.linkedin.com/in/tu-usuario -->
-<!-- Sitio personal / CV: https://tu-dominio.com -->
+## 📊 Métricas de GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucassoria1992&show_icons=true&theme=transparent&hide_title=true&rank_icon=github)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=lucassoria1992&theme=transparent&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoria1992&layout=compact&langs_count=8&theme=transparent&hide_border=true)  
 
 ---
 
-## Cómo trabajo
-- Comunicación clara, entregas iterativas y feedback temprano.
-- Código legible, probado y orientado a negocio.
-- Documentación mínima pero suficiente para mantener y escalar.
+## 📫 Contacto  
+- Email: [lucassoria1992@gmail.com](mailto:lucassoria1992@gmail.com)  
+- Ubicación: Tucumán, Argentina  
+- LinkedIn: [linkedin.com/in/tu-usuario](#)  
+- Portfolio: [tu-dominio.com](#)  
 
-<!--
-Notas para personalizar:
-- Ajusta el “Sobre mí” con tu propuesta de valor (en qué eres especialmente bueno).
-- Sustituye “Proyectos destacados” por 2–4 repos ALIGNADOS a tu foco actual (producto, data, backend, etc.).
-- Si tienes LinkedIn/Portfolio/CV, agrega los enlaces en Contacto.
-- Si usas un stack específico (React/Next/Nest/Express/PostgreSQL/Mongo/Docker), agrégalo arriba.
--->
+---
+
+## 🧩 Forma de trabajo  
+- Comunicación clara y entregas iterativas.  
+- Código probado, legible y orientado a negocio.  
+- Documentación mínima pero suficiente para mantenimiento y escalado.
